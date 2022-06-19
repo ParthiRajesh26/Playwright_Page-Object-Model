@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-18T07:10:38 IST" name="Default suite" finished-at="2022-06-18T07:10:43 IST" duration-ms="4901">
+    <groups>
+    </groups>
+    <test started-at="2022-06-18T07:10:38 IST" name="Default test" finished-at="2022-06-18T07:10:43 IST" duration-ms="4901">
+      <class name="test_package.Homepage_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test_package.Homepage_Test@2ef3eef9]" started-at="2022-06-18T07:10:38 IST" name="setup" finished-at="2022-06-18T07:10:42 IST" duration-ms="3998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyTitleTest()[pri:0, instance:test_package.Homepage_Test@2ef3eef9]" started-at="2022-06-18T07:10:42 IST" name="VerifyTitleTest" finished-at="2022-06-18T07:10:42 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitleTest -->
+        <test-method signature="VerifyUrlTest()[pri:0, instance:test_package.Homepage_Test@2ef3eef9]" started-at="2022-06-18T07:10:42 IST" name="VerifyUrlTest" finished-at="2022-06-18T07:10:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUrlTest -->
+        <test-method signature="searchProduct()[pri:0, instance:test_package.Homepage_Test@2ef3eef9]" started-at="2022-06-18T07:10:42 IST" name="searchProduct" finished-at="2022-06-18T07:10:42 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:test_package.Homepage_Test@2ef3eef9]" started-at="2022-06-18T07:10:42 IST" name="Teardown" finished-at="2022-06-18T07:10:43 IST" duration-ms="409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- test_package.Homepage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
